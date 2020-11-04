@@ -1,0 +1,246 @@
+Privacy Policy
+SleepScore App Privacy Policy 
+Version 1.1.1. Updated April 1, 2020
+
+Your privacy is important to us. This Privacy Policy describes how Consumer Sleep Solutions, LLC d/b/a SleepScore Labs (“SleepScore Labs”) collects data from you through our interactions with you, via our various products and services, and also describes how we use and store that data with your explicit consent. This Privacy Policy identifies the choices you can make about the data we collect and store, and, how you may grant or revoke consent to those processes.
+
+SleepScore offers a range of products and services focused on helping you understand and optimize your overall sleep through use of collected sleep data. They include SleepScore Max device and other SleepScore applications and related products. The Max and related Application help you track your sleep data including sleep duration, sleep onset, sleep staging and other collected information to provide a SleepScore and other key metrics that allow you to take actionable steps to better sleep. (all collectively “Services). Your data is necessary for us to provide the Services.
+
+The prime purpose of collecting and using your data is to allow us to properly measure and create a personalized path to achieve better sleep. The use of your collected personal sleep data is necessary for SleepScore to deliver Services that involve analyzing and evaluating Sleep conditions and solutions. We do not and will not sell your data to third parties.
+
+Please carefully read this Privacy Policy and also our Terms and Conditions for your specific Services product or solution to understand how SleepScore may collect, use and share your personal information with your consent. The terms “we”, “us” or “SleepScore” are each intended as reference to Consumer Sleep Solutions, LLC.
+
+Why we process your personal data and the legal basis for processing
+
+We process your personal data only if you consent to this processing for purposes of providing you the SleepScore Apps.
+
+Under certain laws we are required to state the legal basis for processing your personal data and special category data. We process your personal data on the legal basis that processing is required to provide you with the SleepScore Apps and that processing is required to comply with our legal obligations. We rely on your consent to process any health data that is classified as a special category of personal data.
+
+How We Collect and Use Personal Data
+
+SleepScore collects data to operate effectively and provide you with the appropriate sleep advice and recommendations to achieve better sleep. You have the option to decline when asked to provide personal data. But if you elect not to provide data that is necessary to a product or service feature, you may not be able to use all Services products or features given the provided information is necessary for us to perform certain critical Services tasks and to support Services features.
+
+SleepScore does not sell your data to advertisers, nor does it use what you provide in your measured sleep data, sleep questionnaires, or other interactions to target external ads to you. We use the data through our interactions with you to personalize sleep advice and insights along with recommendations of relevant sleep Services that may help your sleep condition based on analysis of your collected sleep data.
+
+We use collected data to continually improve our product and services including adding new features and enhancing accuracy of the platform. For example, we use sleep data and demographics to improve the relevancy of the sleep advice, insights and recommendations we provide by training sleep models and algorithms.
+
+The data we collect varies based on your interactions with SleepScore, and your selections regarding various Services product settings and the specific product and features you may utilize. The following are a list of the categories of data we collect:
+
+Personal Contact Data, Credentials and Protected classified information
+
+Data We Collect: Basic account data that includes your first and last name, phone number, email, IP address, postal address, username and password. This may also include preferred language. All of our databases are encrypted, additionally within the database certain identifiers including your name, password and email address are all further encrypted so administrative staff cannot view them to help safe guard against a data breach. If access to this information is required for a customer service request, consent will first be requested of the user.
+
+Why: We collect this information to authenticate, secure and provide you with access to our Services. We also use this information to communicate with you as to your account, sleep progress, news and other information that may be pertinent to you which you may opt out of.
+
+Sleep Data:
+
+Data We Collect: Through active use of the SleepScore products to quantify your sleep we collect measurements of your respiration, movement, noise disturbances, and other sleep measurement data. During onboarding we request personal information including height, weight, age, and gender.
+
+Additionally the SleepScore Max (and compatible S+) device record light level, temperature, audio events and radar data from your sleep environment. The radar data recorded is processed locally on your handset and turned in to sleep stage data. Sleep stage, temperature, light level, audio events and processed signal data are collected. Audio events are classified as events above a certain threshold and stored as timestamps, no recognisable audio is collected or stored.
+
+Why: Use of your collected sleep data is used to provide your daily SleepScore, and powering the engines based on your measured personal sleep condition, provides necessary insights, advice, and education to help you achieve greater understanding of your sleep condition. Your personal information is needed for that guidance. Personalized solution recommendations may include general product or service categories or specific products or services, some of whom we may have a relationship with. Your height, weight, age and gender are critical to calculating your recommended sleep solutions. And access to your sleep data is required for your SleepScore products to work.
+
+Sleep Environment Data:
+
+Data We Collect: Through questionnaires we may ask you questions relating to your specific sleep environment and products used to help you sleep. This information may include information regarding your mattress, curtains, sleep aids, and other related information pertaining to your sleep.
+
+For users of iOS Health app, to improve your experience, SleepScore Labs requests permission to read and write health data from the Health app. Thereby allowing the importing of SERVICE sleep parameters into the Heath app. SleepScore Labs does not use HealthKit data for advertising purposes and will not sell Healthkit data.
+
+Why: We collect information regarding your sleep environment to supplement your sleep data to improve our ability to provide personalized sleep analysis and recommendations.
+
+Location Data:
+
+Data We Collect: For users accessing our sleep data services through our app or our other products with location-enhanced features, we request to collect data about your location. This information may include using GPS data, identifying nearby cell towers and Wi-Fi hotspots. Our sleep analysis products necessarily require your location data.
+
+Why: Location-based data can include local weather, allergen, and related data available in the public domain to supplement our sleep data collected to help provide improved sleep recommendations. Location information helps render our sleep recommendations more data-driven and more accurate. If we lack location data, and the other data that location data confirms (like weather and allergen data), we may be unable to provide accurate sleep recommendations and guidance.
+
+Contacts and Relationships:
+
+Data We Collect: You may choose to add your contacts information and information regarding relationships with others (who may also be consumers utilizing our platform).
+
+Why: Allowing participation in social or friends and family sharing capabilities hosted by SleepScore or its partners can greatly enhance your experience with our platform, and adds to the information we can utilize to guide our sleep recommendations.
+
+Usage Data:
+
+Data We Collect: Data about your device and how you and your device interacts with SleepScore and our products and services can be necessary to provide you a more personalized experience.
+
+Technical Information: We collect information from your browser, computer, or mobile device when you access or use our Products and Services, such as browsing history and search history within our sites. This information includes device and network information, cookies, log files and analytics information which we use to increase our ability to improve our services.
+
+Customer Service / Troubleshooting: When you engage with customer service, we collect data about you, your device, software, app, and other details related to the issue. When you contact us for customer support, any phone conversations, email correspondences or chat sessions with our representatives may be monitored and recorded. These may also include error and performance reports used to help customer support in identifying potential issues.
+
+Why: We use data to provide improve customer service and efficient troubleshooting of potential user issues. We use data to develop aggregated analysis and business intelligence to enable us to operate, improve, make informed decisions, secure, and report on performance of the business.
+
+Sleep Research Content.
+
+Data We Collect: We collect content that you may share with SleepScore which may include posts, feedback, reviews, files, questions, information, or comments through social media, customer service or the community.
+
+Why: We may use data we collect at an aggregated level (no personal identifiers included) to gain new insights into sleep which may be used by the company or its partners to improve overall state of sleep science. Such insights may be published from time to time. All data will have any personal identifiers removed. This information is a valuable contributor toward accurate sleep guidance as scientific insights gained from this information can be used to continually improve SleepScore’s products and services.
+
+Reasons We Share Personal Data
+
+We only share your personal data with your consent or as necessary to complete any transaction or provide any product or service you have requested or authorized. For example, you may wish to share your sleep data with a connected third-party partner, which can occur only with your consent.
+
+When you provide payment data to make a purchase, we or authorized agents of the company share payment data with banks and other entities that process payment transactions or provide other financial services, and for fraud prevention and credit risk reduction.
+
+We share personal data with subsidiaries, vendors, partners or agents working on our behalf for the purposes described in this statement to provide our Service. An example being we use 3rd parties for cloud hosting of data and customer service support. These companies must follow our data privacy and security requirements and are not allowed to use personal data they receive from us for any other purpose.
+
+We may share your information with third parties who provide services to SleepScore Labs such as supporting and improving the Services, promoting the Services, processing payments, or fulfilling orders. These service providers will only have access to the information necessary to perform these limited functions on our behalf and are required to protect and secure your information. We may also engage service providers to collect information about your use of the Services over time on our behalf so that we or they may promote SleepScore Labs or display information that may be relevant to your interests on the Services or other websites or services. SleepScore Labs is not responsible for the terms or policies of third parties.
+
+Subject to your privacy settings, your information and content may be publicly accessible should you authorize that, which is your choice.
+
+We may share your information with affiliates under common control with us, who are required to comply with the terms of this Privacy Policy with regard to your information. If SleepScore Labs becomes involved in a business combination, securities offering, bankruptcy, reorganization, dissolution or other similar transaction, we may share or transfer your information in connection with such a transaction.
+
+We may preserve and share your information with third parties, including law enforcement, public or governmental agencies, or private litigants, within or outside your country of residence, if we determine that such disclosure is reasonably necessary to comply with the law, including response to court orders, warrants, subpoenas, or other legal or regulatory process. We may also retain, preserve or disclose your information if we determine that disclosure is reasonably necessary or appropriate to prevent any person from death or serious bodily injury, to address issues of national security or other issues of public importance, to prevent or detect violations of our Terms of Service or fraud or abuse of SleepScore Labs or its members, or to protect our operations or our property or other legal rights, including by disclosure to our legal counsel and other consultants and third parties in connection with actual or potential litigation.
+
+We may share your information with third parties when we forward Digital Millennium Copyright Act (DMCA) notifications, which will be forwarded as submitted to us without any deletions.
+
+Please note some of our products and services include links to those of third parties whose privacy policies differ from SleepScore. Additionally, through affiliate product or service recommendations, you may elect to select links to partner sites whose privacy policies differ from SleepScore. Should you provide personal data to any of those products and services or partners, your data shall be governed by their respective privacy policies. We are not responsible for third-party practices or policy terms.
+
+We may also have to disclose personal data necessary to:
+
+Protect our customers security, or to prevent the loss of life or severe injury;
+Operate and maintaining the security of our products which include internal and 3rd party computer systems and networks vital to the operation of our products;
+Protecting the rights or property of SleepScore, including enforcing the terms governing use of the services.
+While SleepScore Labs continues to work hard to protect your personal information, no data transmission over the Internet can be guaranteed to be absolutely secure, and SleepScore Labs cannot ensure or warrant the security of any information you transmit to SleepScore Labs. Transmitting personal information is done at your own risk.
+
+To learn more please also refer to the SleepScore Terms & Condition document.
+
+Access and Control of Your Personal Data
+
+You can view and manage your data via the respective SleepScore app or website portal based on the product you are using to view and manage your data. For example, you can view and update your profile data, user settings, and view historical sleep data.
+
+Depending on the product you use you may delete a specific night’s tracking session, and the session would be deleted from SleepScore however, other data and the basic measurement data captured by the device or product remain in the database.
+
+Deleting Information and Accounts
+
+You may request that your account is deleted by contacting the company at support@sleepscorelabs.com or by phone at (858) 299-8995. Once deleted, your data, including your account, activities and place on leaderboards cannot be reinstated.
+
+Note that content you have shared with others or that others have copied may also remain visible after you have deleted your account or deleted the information from your own profile. Your public profile may be displayed in search engine results until the search engine refreshes its cache.
+
+Access and Porting
+
+You can access much of your information by logging into your account. If you require additional access or if you are not a SleepScore Labs member, contact us at support@sleepscorelabs.com or by phone at (858) 299-8995. To download a copy of your data, visit https://portal.sleepscore.com/.
+
+Rectify, Restrict, Limit, Delete Requests
+
+You can also rectify, restrict, limit or delete much of your information by logging into your account. If you are unable to do this, please contact us at support@sleepscorelabs.com. SleepScore Labs will generally respond to your request within thirty (30) days or less.
+
+Objection Rights
+
+Where we process your information based on our legitimate interests explained above, or in the public interest, you can object to this processing in certain circumstances. In such cases, we will cease processing your information unless we have compelling legitimate grounds to continue processing or where it is needed for legal reasons.
+
+Revoking consent
+
+Where you have previously provided your consent, such as to permit us to process health-related data about you, you have the right to revoke or withdraw your consent to the processing of your information at any time. For example, you can revoke or withdraw your consent by updating your settings. In certain cases, we may continue to process your information after you have withdrawn consent if we have a legal basis to do so or if your withdrawal of consent was limited to certain processing activities.
+
+Complaint Rights
+
+Should you wish to raise a concern about our use of your information (and without prejudice to any other rights you may have), you have the right to do so with your local supervisory authority.
+
+Retention of Information
+
+We retain information as long as it is necessary to provide the Services to you and others, subject to any legal obligations to further retain such information. Information associated with your account will generally be kept until it is no longer necessary to provide the Services or until you ask us to delete it or your account is deleted whichever comes first. For example, when you withdraw your consent for SleepScore Labs to process your health-related information, SleepScore Labs will delete all health-related information you uploaded. Following the deletion of your account, it may take up to 30 days to fully delete your personal information and system logs from our systems. Additionally, we may retain information from deleted accounts to comply with the law, prevent fraud, collect fees, resolve disputes, troubleshoot problems, assist with investigations, enforce the Terms of Service and take other actions permitted by law. The information we retain will be handled in accordance with this Privacy Policy.
+
+Information about you that is no longer necessary and relevant to provide our Services may be de-identified and aggregated with other non-personal data to provide insights which are commercially valuable to SleepScore Labs, such as statistics of the use of the Services. For example, we may retain publicly available segments or routes and other depersonalized geolocation information to continue to improve the Services. This information will be de-associated with your name and other identifiers.
+
+Should you delete your SleepScore Account, aggregate de-identified sleep data may be retained in our database for use in Services product maintenance and improvements, and to otherwise advance sleep science analytics.
+
+When you submit personally identifiable information to us through the Registration Pages as part of the Service, you may be given an opportunity to opt in to receiving additional information from or on behalf of SleepScore Labs entities as part of the Service and otherwise, including notifications and “advice nuggets” forwarded by parties providing the Service App, and/or selected third parties at the time of submitting your personally identifiable information to us. By using our product, you have opted in to be added to our list of users who will receive promotional and marketing communications from us, our partners and/or other third parties. You can opt out of sharing information with us by contacting us at support@sleepscorelabs.com.
+
+You can opt out of receiving products and services recommendations by discontinuing use of our product and/or Service or communicating a request to opt-out of receiving that information from us. If you discontinue your use of our product and/or the Service for a period of ninety days or more, we may require you to re-register or otherwise stop communicating with you electronically.
+
+If you cannot access, edit or delete your personal data collected by SleepScore using the mechanisms above or directly using the products, apps, website, or related interfaces you can always contact SleepScore Customer Support via support@sleepscorelabs.com. You can cancel your account at any time as well by contacting Customer Support. We will work to respond to requests to access, edit or delete your personal data within 30 days.
+
+How can you exercise your rights provided under the CCPA?
+
+Under the CCPA, Californians have the following rights, we extend these rights to all US users:
+
+Right to Know:
+You have the right to request that we disclose to you the Personal Information we collect, use, or disclose, and information about our data practices;
+
+Right to Request Deletion:
+You have the right to request that we delete your Personal Information that we have collected from you;
+
+Right to Non-Discrimination:
+We will not discriminate against you for exercising any of these rights.
+
+To exercise your “right to know” or your “right to request deletion,” contact us by email on support@sleepscorelabs.com or by phone at (858) 299-8995
+
+Cookies and Similar Technologies
+
+SleepScore uses cookies and similar technologies for several purposes, depending on your product or service, including:
+
+Sign-in and Authentication: When you sign into the Application or Website using your SleepScore account, we store a unique code in an encrypted cookie on your device. This will allow you the ability to access without having to sign in each time you use the Application or Website.
+Storing Preferences and Settings: Allowing you to save preferences and settings so that you do not have to be reset each time you use the Application or Website.
+Security: Utilizing cookies to detect fraud and abuse of our Applications, Websites and services.
+Affiliate Marketing: When you select to go to a partner website to learn more about or purchase a Marketplace or Recommended product we store the data in a cookie and other similar technologies to help facilitate your experience by embedding provide information and associated coupon code where applicable.
+Social Media: To provide ability to share content on social media we may include social media cookies to provide such a service feature.
+Reporting Bugs and Feedback: We may use cookies to allow you to report product issues and feedback on the Application or Website.
+Analytics and Performance: To provide our products and services, we use cookies and other similar technologies to gather usage, performance data and for use in back-end activities to ensure the respective Applications and Websites remain up and running in an efficient manner. For example, we use SleepScore and third-party analytic partner cookies to monitor number of unique visitors to develop statistics about operations of our products and services.
+In addition to the cookies and other similar technologies SleepScore sets when you visit our Application and Website properties, third parties may also set cookies when you visit our sites which in many cases are parties we have hired to provide services on our behalf including site performance analytics or content. In such cases you may be connected to those third-party servers to retrieve that content or services and they may be able to set or read their own cookies on your device and collect information about your online activities.
+
+To help us monitor site performance analytics we use web beacons or similar technologies from third-party analytics providers. These technologies enable the analytics providers to set or read their own cookies or other identifiers on your device, through which they can collect information about your online activities across applications, websites or other products. However, we prohibit these analytics providers from using web beacons on our sites to collect or access information that directly identifies you (such as your name or email address). You can opt out of data collection or use by some of these analytics providers by clicking the following links:
+
+Google Analytics: tools.google.com/dlpage/gaoptout (requires you to install a browser add-on)
+Mixpanel: https://help.mixpanel.com/hc/en-us/articles/360001113426-Opt-Out-of-Tracking
+Other Important Privacy Information
+
+Below, you will find additional privacy information you may find important. Should you have any questions please contact us at SleepScore Customer Support at support@sleepscorelabs.com
+
+Security of Personal Data
+
+SleepScore is committed to protecting the security of your collected personal data. We use a variety of security technologies and procedures to help protect your personal data from unauthorized access, use or disclosure. For example, we store the personal data you provide encrypted and on computer systems that have limited access and are in controlled facilities.
+
+Collection of Data from Children
+
+We do not intend to market to or interact with, or secure any User Data from, children sixteen (16) years old or younger. Our Service is not by design reasonably likely to attract children sixteen (16) years old or younger to purchase or otherwise use our Service.
+
+You must be over the age of eighteen (18) to create an account and use our Service.
+
+If you are a minor and wish to utilize our product or the Service, your parents or legal guardians (hereafter your “Parents”) must engage in purchasing the product or Service and additionally if you are over eighteen (18) years old give us their written consent by contacting our customer service department. Our teams will answer any questions that you or your Parents may have concerning the use of our products and services and the rules relating to the collection of personal data.
+
+Personal Data Breach Response
+
+Should a data breach occur the company shall announce breach response for affected users within seventy-two (72) hours of such an event.
+
+Retention of Personal Data
+
+SleepScore retains personal data for as long as necessary to provide the products and fulfill the transactions you have requested or for other essential purposes such as complying within our legal obligations, resolving disputes, financial records and enforcing our agreements. Because these needs may vary for different data types in the context of different products the retention period may vary significantly.
+
+How long is personal data needed to operate our Products and Services? Apart from where the law stipulates a specific period, we retain your User Data for a period not exceeding the period required for the purposes for which it was collected and processed. But generally, the company will delete Personal Identifiable Information from the system after 7 years of inactivity or as local legal requirements dictate.
+What is the duration by which personal data is deleted? Upon confirmation personal data, not necessary for legal, contractual, or similar obligation will remain on our system for up to 30 days before final deletion. Aggregate sleep data with Personal Identifiable Information removed will still be retained in our database for use in product maintenance and improvements and sleep science analytics.
+Is SleepScore subject to a legal, contractual, or similar obligation to retain the data? Situations including mandatory data retention laws in the applicable jurisdiction, government orders to preserve data relevant to an investigation, or data that must be retained for the purposes of litigation may result in varying retention periods.
+Sleep Study or Beta Releases
+
+From time to time, SleepScore may offer opportunities to participate in sleep studies or access to beta products and features. As a result, these may change the data collected and the user experience that employ different privacy and security measures from those typically present in our products. If you participate in such a study or beta release you may need to enter into a different agreement for access.
+
+Where We Store and Process Personal Data
+
+Personal data collected by SleepScore stored and processed in the United States and accessed by authorized users for support in regions where SleepScore or its affiliates or service providers maintain facilities.
+
+Email, name and basic sleep data is shared with a communication platform to send updates from SleepScore.
+
+We take steps to ensure that the data we collect under this Privacy Policy is processed according to the provisions of this statement and the requirements of applicable law wherever the data is located.
+
+Changes to the Privacy Policy
+
+This Privacy Policy is subject to change from time to time when necessary based on customer feedback and changes to our products and services. As such you are advised to review this Privacy Policy occasionally as SleepScore shall endeavor to notify you of any material changes to the Policy.
+
+Your continued use of any aspect of the Service after SleepScore modification of this Privacy Policy constitutes your acceptance of the modified Privacy Policy. If any term or provision of this Privacy Policy is be found to be invalid, illegal or otherwise unenforceable, such finding will not affect the other terms or provisions of this Privacy Policy, or the whole of this Privacy Policy, but such term or provision will be deemed modified to the extent necessary to render such term or provision enforceable, and the rights and obligations of you and SleepScore will be construed and enforced accordingly, preserving to the fullest permissible extent the intent and agreements set forth in this Privacy Policy.
+
+If you object to any of the changes to this Privacy Policy, you should stop using the Services and delete your account immediately.
+
+How to Contact Us
+
+If you have any technical or support questions, please contact us at support@sleepscorelabs.com.
+
+If you have any privacy concerns, complaints or inquiries for the Chief Data Protection Officer of SleepScore, please contact us via email at privacy@sleepscorelabs.com.
+
+Unless otherwise stated, Consumer Sleep Solutions is a data controller for personal data we collect through products and services subject to this statement. Our address is at:
+
+Privacy Office SleepScore Labs
+2175, Salk Avenue, Suite 200
+Carlsbad CA 92007. USA
+Note: The Services (including the App and related sleep guidance and product recommendations) do not constitute a medical device or the practice of medicine. If you are seeking information on how to diagnose and/or treat a sleep disorder, you should consult with your healthcare professional.
+
+To find the SleepScore affiliate or subsidiary in your country or region, see www.sleepscore.com.

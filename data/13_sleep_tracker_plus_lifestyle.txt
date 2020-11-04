@@ -1,0 +1,7 @@
+At Lumen Spark, we take the security of our products and privacy of our users very seriously. We use the best tools and engineering practices available to build our software, and make sure that Lumen Trails remains secure. We do not collect any information that you enter in Lumen Trails. Your data is never transmitted to our servers.
+
+At your discretion, you may choose to upload your entries or Lumen Trails backup files to Google Drive or iCloud. You are fully in control over what and when gets uploaded. The transmission occurs directly between Lumen Trails app(s) and Google Drive or iCloud service, using industry standard SSL encryption to guarantee secure delivery. Once uploaded, your data is private by default and is protected by your username and password. Lumen Trails does not access any of your private files stored in Google Drive that were not created by Lumen Trails app. The app will only read your Lumen Trails backup files stored in Google Drive, and only if you choose to restore the app from backup.
+
+To help keep your data private, it is important to have a strong password and to not share that password with others. If you want to learn more about your data on Google Drive, including tips and advice for staying safe online, please refer to Google Good to Know page.
+
+Copyright 2009-Present Lumen Spark LLC. All Rights Reserved. Apple, the Apple logo, App Store, iPhone, iPad and iPod are registered trademarks of Apple Inc. in the U.S. and/or other countries. Other company and product names may be trademarks of their respective owners.
