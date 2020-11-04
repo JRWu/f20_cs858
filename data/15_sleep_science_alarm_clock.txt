@@ -1,0 +1,69 @@
+Privacy Policy
+This privacy policy for Phase4 Mobile Inc. (“Phase4”) describes:
+
+The information that we collect in our Mobile Apps and Websites
+How we use this information, why we store, and why we retain it
+How you can request that your information is updated or deleted
+Important legal and contact information
+Mobile Apps
+When you download and use our Mobile Apps, we automatically collect information on the type of device you use, operating system version, country code and language to localize the application and to improve the user experience.
+
+Our Mobile Apps require no external user accounts, registrations, logins or passwords of any kind.
+
+Our Mobile Apps contain functionality to allow you to optionally request help or provide product feedback. When received, we retain submitted email addresses and any submitted personal information. No information is shared with any third party, or used for any other purpose. You can always send us an email to contact@phase4mobile.com if you’d like to remove any of your submitted information.
+
+Several of our Mobile Apps are designed to monitor and help improve sleep over time. These apps record sleep and awake time, the highest volume sound in one night, and provide the option to record notes. All information is stored locally on the device and not exported, shared, or used for any other purpose. Sound files are temporary and not stored in logs, shared or exported. All locally entered and stored sleep and notes information may be deleted at any time using UI controls within the app.
+
+In countries outside the European Economic Area, the U.K. and Switzerland, our Mobile Apps use an industry-standard crash-reporting tool for error-reporting and crash events. Diagnostic traces and installation UUIDs are sent to build a description of the crash, and this diagnostic information helps us improve the product over time.
+
+In our free Mobile apps we use a leading third party advertising mediation network to provide small banner advertisements, and use it and its compatible ad network partners to serve these ads within the apps.
+
+In the European Economic Area, the U.K. and Switzerland, free Mobile apps downloaded or updated after May 25, 2018 use a GDPR consent dialog to offer the choice of personalized or non-personalized advertisements. This selection is stored and used to determine whether or not advertising is personalized, and may be changed or revoked at any time within the app.
+
+When ads are personalized, either by providing consent in the European Economic Area, the U.K. or Switzerland, or not opting out in the rest of the world, your personal data is collected by our ad network partners.
+
+Our advertising networks and their demand partners use personalized data to serve relevant ads to the apps, provide aggregated ad reporting, detect and prevent fraud, and maintain and improve their services.
+
+If you decide that you do not want a personalized advertising experience, your personal data will not be used and you will be served contextual advertising, i.e. ads targeted to the content or type of app you are using.
+
+Depending on where you live and your privacy choices, the personal data collected can include:
+
+Information about your device, such as the type and model, manufacturer, operating system, carrier name, mobile browser, and screen size. Device identifiers such as your IP address, iOS Identifier for Advertising (IDFA), or an Advertising-specific identifier.
+Information about your app usage, the start/stop time of your app session, your current time zone, and your network connection type (e.g., WiFi, cellular).
+An approximate geographic location, including information like country, city, and geographic coordinates, based on your IP address.
+Information about ads served, viewed, or clicked on, such as the type of ad, where the ad was served, whether you clicked on it, and whether you visited the advertiser’s website or downloaded the advertiser’s app.
+If you are located in a country outside the European Economic Area, the United Kingdom, and Switzerland, you can opt out of receiving personalized advertising at any time by enabling the “Limit Ad Tracking” setting, or “Allow Apps to Request to Track” after iOS14.
+
+If you are located in the European Economic Area, the United Kingdom, or Switzerland, free Mobile apps downloaded or updated after May 25, 2018 present a consent dialog asking whether you wish to have personalized or non-personalized ads. You may also revoke this at any time by enabling the “Limit Ad Tracking” setting, or “Allow Apps to Request to Track” after iOS14.
+
+If you do not consent to a personalized advertising experience, or you later withdraw consent, our ad mediation partner may still process your personal data when necessary for fraud detection or to comply with the law.
+
+Websites
+Our Websites do not store your personal information, track you, or use cookies, and they show no advertisements.
+
+Our Websites contain functionality to allow you to optionally contact us via email. When received, we retain submitted email addresses and any submitted personal information. No information is shared with any third party, or used for any other purpose. You can always send us an email to contact@phase4mobile.com if you’d like to remove any of your submitted information.
+
+Important Legal and Contact Information
+Disclosure of Personal Information As Required By Law
+We will disclose personal information when required by law, or if we have good-faith belief that such action is necessary to (a) comply with current judicial proceedings, a court order or legal process served on us, (b) protect and defend our rights, or (c) protect the rights, property, and other interests of our users or others.
+
+Change of Ownership
+In the event that Phase4 goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, our customers’ personal information may be part of the assets transferred. Customers will be notified via prominent notice on our site prior to a change of ownership or control of their personal information.
+
+Personal Information of Children Under 13
+Phase4 complies with the requirements of the Children’s Online Privacy Protection Act (COPPA) and the FTC’s Rule interpreting COPPA (16 CFR § 512). This site and our products are not directed to children and do not knowingly collect any personally identifiable information from children under 13 years of age.
+
+California Privacy Rights
+California Civil Code Section 1798.83 permits customers who are California residents to request that Phase4 not share their personal data with third parties for such parties’ direct marketing purposes. To make such a request, send an e-mail with “California Privacy” in the subject line to contact@phase4mobile.com or write to us at the address listed below.
+
+California residents can choose to opt out of receiving personalized advertising in our mobile apps at any time by enabling the “Limit Ad Tracking” setting, or “Allow Apps to Request to Track” after iOS14, as outlined in the “Mobile Apps” section above.
+
+Changes to This Privacy Policy
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our processing of your personal data and will always be at https://www.phase4mobile.com/privacy-policy
+
+Contact Information
+If you have any questions about our privacy policy, please contact us at contact@phase4mobile.com.
+
+Phase4 Mobile, Inc.
+P.O. Box 1326
+Manzanita, OR 97130-1326
