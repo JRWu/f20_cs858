@@ -4,12 +4,29 @@ Repository for Fall 2020 CS858. Code to support the lexical analysis.
 
 ## Quickstart
 NOTE: The quickstart assumes the user has docker & docker-compose installed.  
+If they are not installed, check the Slow Start (Dependencies) section.
 ```
 git clone git@github.com:JRWu/f20_cs858.git
 
 cd f20_cs858
 
 make
+```
+
+## Lexical Analysis Workflow
+This analysis is based on Google's Word2Vec model. It is rather large and unzips to approximately 4 Gigabytes.   
+
+```
+# Shell into the Docker (Virtual) environment
+# Your working directory will be /f20_cs858
+make shell
+
+# Acquire the pre-trained GoogleNews-vectors-negative300.bin.gz word2vec model
+bash scripts/acquire_w2v_model.sh
+
+# Compute the similarity metrics and output graphs
+python 
+
 ```
 
 ### Slow Start (Dependencies)
