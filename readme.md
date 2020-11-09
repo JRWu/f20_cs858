@@ -25,7 +25,8 @@ make shell
 bash scripts/acquire_w2v_model.sh
 
 # Compute the similarity metrics and output graphs
-python 
+# Will take a second to load due to the Word2Vec model being so large.
+python -m flask run --host=0.0.0.0
 
 ```
 

@@ -3,6 +3,10 @@ services:
   f20_cs858:
     build: ./
     working_dir: /f20_cs858
+    ports:
+      - 5000:5000
     volumes: 
       - ./:/f20_cs858
+    environment:
+      - FLASK_APP=/f20_cs858/src/flask/app.py
     command: tail -f /dev/null

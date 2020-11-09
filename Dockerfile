@@ -5,3 +5,6 @@ RUN pip install pytextrank && \
 
 # Install dependencies for Word2Vec
 RUN pip install numpy gensim
+
+# Install dependencies for Flask Webapp
+RUN pip install flask
