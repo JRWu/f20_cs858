@@ -17,9 +17,12 @@ def compute_similarity(w2v_model, target_doc, target_sentence, input_num=10):
 		data.append(data_in)
 
 	# Delimit by newline and period.
-	#print("DATA: " + data)
-	preliminary_tokens = re.split('\n|\\.', data[0])
+	#preliminary_tokens = re.split('\n|\\.', data[0])
+	# Delimit by double newline.
+	preliminary_tokens = re.split('\n\n', data[0])
 	# Filter out empty sentences.
 	tokens = list(filter(None,preliminary_tokens))
 	results = ds.calculate_similarity(target_sentence, tokens)
+	# Sanity check to display only the allowed minimum value
+	keep_results = min(int(input_num),int(len(tokens)))
 	return results[:int(input_num)]
