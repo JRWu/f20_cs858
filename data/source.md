@@ -64,3 +64,31 @@ Accessed policies on Thursday Nov 5, 2020.
 - This one is very basic.
 
 
+
+
+
+# Fitness Tracker(s)
+
+[0](https://account.underarmour.com/en-us/privacy) MyFitnessPal by UnderArmour
+- # 5 in Health & Fitness
+
+[1](https://www.fitbit.com/global/us/legal/privacy-policy) Fitbit by Fitbit, Inc.
+- # 4 in Health & Fitness
+- Activity, Sleep & Nutrition
+
+[2](https://www.iubenda.com/privacy-policy/38687662) Fitness Coach by Luni
+- #3 in  Health & Fitness
+- Workout & Fitness in 30 Day
+
+
+
+# Diet Tracker(s)
+[0](https://lifesum.com/policy/)L Lifesum: Diet & Macro Tracker by Lifesum AB
+- # 25 in Health & Fitness
+
+[1](https://fastic.com/en/privacy-policy/)  Fastic - Fasting App by HealthVida GmbH & Co. KG.
+- # 39 in Health & Fitness
+
+[2](https://web.noom.com/terms-and-conditions-of-use/noom-privacy-policy/) Noom by Noom, Inc.
+- #17 in Health & Fitness
+- Heatlhy Weight Loss & More

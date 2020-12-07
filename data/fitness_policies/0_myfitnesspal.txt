@@ -1,0 +1,160 @@
+Under Armour Privacy Policy
+Previous Under Armour Privacy Policy 2016  Download PDF
+Effective: May 20, 2018
+
+IMPORTANT NOTICE
+
+At Under Armour, our mission is to make consumers and end-users better by enabling their ability to achieve their goals through our passion, design, and the relentless pursuit of innovation. That mission covers our offline and in-store activities, and extends to our online community as well through our websites, applications, and connected products and services (which we collectively refer to in this Privacy Policy as the “Services”). Our Privacy Policy describes how we collect and process your Personal Data through our websites (e.g., including, but not limited to, underarmour.com, myfitnesspal.com, mapmyfitness.com, UA Run, and endomondo.com (“Websites”)), corresponding Mobile Apps, in store, at events and on campus. We encourage you to read this Privacy Policy as well as our Terms and Conditions of Use (referred to throughout as our “Terms”). The Terms of Use for our philanthropic initiative WeWillCity site are located here.
+
+BY USING THE SERVICES, YOU CONSENT TO THE COLLECTION, USE AND TRANSFER OF YOUR PERSONAL DATA FOR PROCESSING IN THE UNITED STATES AS DESCRIBED IN THIS PRIVACY POLICY. END USERS FROM OUTSIDE THE US ARE ENCOURAGED TO Read More
+Note to Residents of the European Union: In order to comply with the requirements of the European General Data Protection Regulation (GDPR) for our European consumers and users, this Privacy Policy outlines the legal basis on which we process your Personal Data and provides other information required by the GDPR. Further country/region specific information for our European consumers and users is outlined in the Location-Specific Disclosures section.
+
+Who We Are
+We are Under Armour, Inc. and Under Armour Europe B.V., as well as our family of affiliated companies (collectively referred to herein as “Under Armour,” “we,” “us,” or “our”). We provide Internet and mobile app-based services including, for example, the apps linked to below (“Mobile Apps”):
+
+Under Armour and Under Armour Shopping
+MapMyFitness
+MyFitnessPal
+Endomondo
+UA Run
+We also provide certain services related to volunteer action and grants through the WeWill.city website.
+
+Information About Your Personal Data
+This Privacy Policy relates to data about you, your devices, and your interaction with our Services.
+
+"Personal Data" is information that can be used to identify you, directly or indirectly, alone or together with other information. This includes things such as your full name, email address, phone number, precise location, device IDs, certain cookie and network identifiers, and "Fitness and Wellness Data."
+Under Armour collects, uses, discloses and processes Personal Data as outlined in this Privacy Policy, including to operate and improve the Services and our business; for advertising and marketing; and to provide you with innovative fitness and wellness services, as further described in this Privacy Policy.
+
+We may create de-identified or anonymous data from Personal Data by excluding data components (such as your name, email address, or linkable tracking ID) that makes the data personally identifiable to you, through obfuscation, or through other means. Our use of anonymized and de-identified data is not subject to this Privacy Policy.
+
+How We Collect and Use Personal Data
+We collect your Personal Data in a number of ways and for various purposes, including:
+
+When you register for an account or interact with our Services. Read More
+When you input Fitness and Wellness Data within our Services or use our Services that collect or infer such data from mobile device sensors. Read More
+When you use or interact with a wearable or other connected device. Read More
+When you give us permission to collect Location Data. Read More
+When you communicate with us or sign up for promotional materials. Read More
+When you participate in special activities, offers, or programs. Read More
+When you engage with our online communities or advertising. Read More
+When you access third party products and services. Read More
+When you connect with us through social media. Read More
+When we collect data from third parties or publicly-available sources. Read More
+When we leverage and/or collect cookies, device IDs, Location, data from the environment, and other tracking technologies. Read More
+When we track you in Store. Read More
+When we aggregate or centralize data. Read More
+When we link you to friends across platforms. Read More
+When you take fitness tests or assessments; share content or achievements; or invite friends. Read More
+When we provide you geographically relevant Services, offers, or advertising. Read More
+When you ask us to customize apparel, products, or Services. Read More
+When we comply with Legal Requirements or Obligations, Law Enforcement, and for Public Safety Purposes ( Location-Specific Disclosures may apply). Read More
+When you participate in our Wewill.City initiatives. Read More
+How We Disclose Personal Data
+We may disclose your Personal Data for the purposes as described in the prior section of this Privacy Policy, in the Location-Specific Disclosures section, and in the following ways:
+
+To Affiliates and Partners Read More
+To Service Providers and Vendors. Read More
+To Social Network Providers. Read More
+To other Users/Under Armour Registered Users. Read More
+For Advertising and Marketing. Read More
+For Certain Analytics and Improvement Read More
+For Interest-Based Advertising. Read More
+For Legal Compliance, Law Enforcement, and Public Safety Purposes (Location-Specific Disclosures may apply). Read More
+In the event of an actual or contemplated sale. (Location-Specific Disclosures may apply). Read More
+A list of types of companies with whom we share data is available here.
+
+Legal Basis for Processing
+This section addresses the legal basis for processing your data if you reside outside the United States (within the United States, you typically provide consent when you receive notice of this Privacy Policy in a website link or mobile app). Some processing is addressed in multiple sections because more than one legal basis may apply depending on the circumstances or service.
+
+For the purposes of applicable data protection laws, Under Armour, Inc. is the controller of the Personal Data you provide to us (“Data Controller”). As a Data Controller, we process the Personal Data we maintain about you in accordance with this Privacy Policy. If you have any questions or concerns regarding the processing of your Personal Data, or if you have questions regarding this Privacy Policy, please see our Location-Specific Disclosures for appropriate contact information.
+
+Note for Residents of the European Union: For more information on the Legal Basis for processing see the EEA Location-Specific Disclosures.
+We collect and process your Personal Data for a variety of purposes outlined in this Privacy Policy. In certain cases, separate consent is not required, including:
+
+For the performance of a contract Read More
+To meet legal obligations Read More
+For Legitimate Interests Read More
+
+Consent as a Basis for Processing
+In some cases, we will ask for your consent to process your Personal Data. You may indicate your consent in a number of ways, including, as permitted by law, ticking a box (or equivalent action) to indicate your consent when (i) providing us with your Personal Data through our Services or a form (including enrolling in Promotions); or (ii) registering or creating an account with us. Due to different countries' laws governing consent for the collection and use of Personal Data, the requirements for consent will differ across regions. We may request your consent for a number of activities including:
+
+Under Armour Marketing and Communication. Read More
+Sharing with Third Party Services. Read More
+Third Party Marketing. Read More
+Collecting Mobile Device IDs, Advertising IDs, and Data from Sensors. Read More
+Processing Sensitive Personal Data. Read More
+Collecting and Sharing Location Data. Read More
+Research. Read More
+Advertising. Read More
+Transfer of Data. Read More
+Automated Processing. Read More
+To Enable Social Sharing and Connect with Us on Social Media. Read More
+Promotions. Read More
+Social Sharing Settings
+Within our Services there are four sharing settings: Private, Share with Friends, MyFitnessPal Members Only (only available within MyFitnessPal), and Public. Under Armour apps are designed for your wellness and fitness benefit. As such, you are able to control what Personal Data you share and with whom you share it. We encourage you to adjust the sharing settings to best meet your objectives and sharing comfort level. In the interest of safeguarding your Personal Data, we have outlined some initial default sharing settings.
+
+Default Sharing Settings
+
+"Physical Stats" are set as Private. "Private" means not shared with friends or other members. You can change this default status for some of your physical stats. Information that is "Private" by default includes, for example, your height, weight, BMI, and heart rate.
+"Activity Stats" are set as Share with Friends. "Share with Friends" means visible to your friends, but not shared with other members. You can change this default status if you want. Information that is set as "Share with Friends" by default includes, for example, your workouts, steps, routes, friends challenges, and friendships.
+Community Social Data is set as Public. "Public" means visible to all others using the service. For example social posts where you have set your account up as "Follow" (in app and on the websites), community forums, public challenges (challenges set up by Under Armour), and photos.
+Lookup Information is set as Public. We believe that social motivation helps you achieve your goals faster and allowing your friends to be able to find you is crucial to this experience. Therefore, your first and last name, location, gender, username, main fitness activity, and profile picture are set as Public. If you set your entire account as Private, your lookup data will no longer be available for your friends to find you (unless you otherwise indicate that desire within the Services).
+Changing Your Sharing Preferences
+
+Details on how to update your sharing preferences and the default settings for our Services are outlined within the sharing standard.
+
+Note: When you share information from our Services externally with a SNS, the information you post is governed by their privacy policy and settings.
+
+Interest-Based Advertising
+Interest-based advertising is advertising that is targeted to you based on your web browsing and app usage over time and across websites or apps. Our advertising practices also include the creation and use of "audience segments." You have the option to restrict the use of information for interest-based advertising and to opt-out of receiving interest-based ads. Depending on where you access our website from, you may also be asked to consent to our use of cookies, including advertising cookies. Additional information on Audience Segments and our choices for interest- based advertising is found below.
+Audience Segments Read More
+Interest-Based Advertising Opt Outs, Choices, and Control Read More
+
+Managing Preferences and Withdrawing Consent
+You may at any time withdraw your consent with future effect and without affecting the lawfulness of processing of your Personal Data based on the consent you provided before you withdrew it, and exercise other controls regarding website and online data collection, interest-based advertising, your communication settings, and app preferences. Depending on the Service, collection and use of Personal Data may be required for the Services to work.
+
+We provide you several ways to manage your preferences:
+
+Cookie Use and Controls Read More
+IP Address Use Read More
+Web Pixels or Beacons Use Read More
+HTML5 Local Storage Read More
+Flash Cookie Use Read More
+Social Network Interaction and Widgets Read More
+Mobile Device Advertising IDs, Location, Sensor Data, and In-Range Device Data Use Read More
+Withdraw Your Consent for Use of Your Mobile Device IDs and Location Data for Analytics and Advertising Read More
+Other Ways to Manage Your Location Services Read More
+ 
+Change Consent Settings for Communication Preferences Read More
+Transfers of Your Personal Data to Other Countries
+The Personal Data Under Armour processes, and all associated Services and systems, including registration, is housed on servers in the United States. If you are located outside of the United States, please be aware that Personal Data we collect will be processed and stored in the United States (the data protection and privacy laws in the United States may offer a lower level of protections than in your country/region).
+By using our Services and submitting your Personal Data, you agree to the transfer, storage, and/or processing of your Personal Data in the United States. Where and as required, we will seek your explicit consent as outlined in this Privacy Policy.
+
+Data Retention
+We will retain your Personal Data for as long as you maintain an account or as otherwise necessary to provide you the Services. We will also retain your Personal Data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Where we no longer need to process your Personal Data for the purposes set out in this Privacy Policy, we will delete your Personal Data from our systems.
+
+Where permissible, we will also delete your Personal Data upon your request. Information on how to make a deletion request can be found here.
+
+If you have questions about our data retention practices, please contact us through our Support Team.
+
+Third Parties
+We may allow you to register and pay for third-party products and services or otherwise interact with another website, mobile application, or Internet location (collectively "Third Party Sites") through our Services, and we may collect Personal Data that you share with Third Party Sites through our Services. When we do so, we will inform you of the further details of how we use your Personal Data.
+
+Security
+We implement appropriate technical and organizational safeguards to protect against unauthorized or unlawful processing of Personal Data and against accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to Personal Data. Please be advised, however, that we cannot fully eliminate security risks associated with the storage and transmission of Personal Data.
+Links to Other Websites. Please note that this Privacy Policy does not apply to the practices of companies that we do not own or control or to people that we do not employ or manage. Our Services may provide a link or otherwise provide access to Third Party Sites. We provide these links merely for your convenience. We have no control over, do not review, and are not responsible for Third Party Sites, their content, or any goods or services available through the Third Party Sites. Our Privacy Policy does not apply to Third Party Sites, and any data you provide to Third Party Sites, you provide at your own risk. We encourage you to review the privacy policies of any Third Party Sites with that you interact with.
+
+Children
+We do not knowingly collect Personal Data online from children under 13 (note that the minimum age may vary based on location, and on local law). If you become aware that a child has provided us with Personal Data without parental consent, please contact us through our Support Team. If we become aware that a child under 13 has provided us with Personal Data without parental consent, we will take steps to remove the data and cancel the child's account.
+
+How to Contact Us
+If you have any questions, comments, or concerns about how we handle your Personal Data, then you may contact us through our Support Team or write to us at:
+
+Under Armour, Inc.
+Attention: Privacy Office, Legal Department
+1020 Hull Street
+Baltimore, MD USA 21230
+You can also go to our Location-Specific Disclosures to find a contact for the Data Protection Officer in your region, if applicable.
+
+
+Location-
