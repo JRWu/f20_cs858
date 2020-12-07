@@ -131,12 +131,14 @@ The Personal Data Under Armour processes, and all associated Services and system
 By using our Services and submitting your Personal Data, you agree to the transfer, storage, and/or processing of your Personal Data in the United States. Where and as required, we will seek your explicit consent as outlined in this Privacy Policy.
 
 Data Retention
-We will retain your Personal Data for as long as you maintain an account or as otherwise necessary to provide you the Services. We will also retain your Personal Data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-Where we no longer need to process your Personal Data for the purposes set out in this Privacy Policy, we will delete your Personal Data from our systems.
+We will retain your Personal Data for as long as you maintain an account or as otherwise necessary to provide you the Services. We will also retain your Personal Data as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Where we no longer need to process your Personal Data for the purposes set out in this Privacy Policy, we will delete your Personal Data from our systems.
 
 Where permissible, we will also delete your Personal Data upon your request. Information on how to make a deletion request can be found here.
 
 If you have questions about our data retention practices, please contact us through our Support Team.
+
+Third Parties
+We may allow you to register and pay for third-party products and services or otherwise interact with another website, mobile application, or Internet location (collectively "Third Party Sites") through our Services, and we may collect Personal Data that you share with Third Party Sites through our Services. When we do so, we will inform you of the further details of how we use your Personal Data.
 
 Security
 We implement appropriate technical and organizational safeguards to protect against unauthorized or unlawful processing of Personal Data and against accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to Personal Data. Please be advised, however, that we cannot fully eliminate security risks associated with the storage and transmission of Personal Data.

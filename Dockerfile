@@ -4,7 +4,7 @@ RUN pip install pytextrank && \
 	python -m spacy download en_core_web_sm
 
 # Install dependencies for Word2Vec
-RUN pip install numpy gensim
+RUN pip install numpy gensim pandas matplotlib
 
 # Install dependencies for Flask Webapp
 RUN pip install flask

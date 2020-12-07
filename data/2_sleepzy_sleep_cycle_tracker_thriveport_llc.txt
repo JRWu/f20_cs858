@@ -129,9 +129,7 @@ We may share information about you for the purposes described in this Privacy Po
 
 Corporate Affiliates
 
-Thriveport is part of the IAC Group family of businesses. We may share your information with other parts of IAC for legitimate business purposes, including:
-
-to assist us in technical processing operations, such as data hosting and maintenance, finance, legal, HR and accounting assistance, securing our data and systems and fighting against spam, abuse, fraud, infringement and other wrongdoings; and
+Thriveport is part of the IAC Group family of businesses. We may share your information with other parts of IAC for legitimate business purposes, including: to assist us in technical processing operations, such as data hosting and maintenance, finance, legal, HR and accounting assistance, securing our data and systems and fighting against spam, abuse, fraud, infringement and other wrongdoings; and
 for corporate audit, analysis and consolidated reporting as well as compliance with applicable laws.
 Third Party Service Providers
 

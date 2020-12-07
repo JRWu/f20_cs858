@@ -16,8 +16,6 @@ def compute_similarity(w2v_model, target_doc, target_sentence, input_num=10):
 		data_in = file.read()
 		data.append(data_in)
 
-	# Delimit by newline and period.
-	#preliminary_tokens = re.split('\n|\\.', data[0])
 	# Delimit by double newline.
 	preliminary_tokens = re.split('\n\n', data[0])
 	# Filter out empty sentences.

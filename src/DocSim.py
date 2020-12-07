@@ -1,8 +1,15 @@
 import numpy as np
+"""
+Use the DocSim class from 1shwa/document-similarity.
+https://github.com/v1shwa/document-similarity
 
+
+Jia modified to split by separate tokens and modified the sorting process at the end.
+"""
 
 class DocSim:
     def __init__(self, w2v_model, stopwords=None):
+        # Constructor to load Word2Vec model, may substitute others in here
         self.w2v_model = w2v_model
         self.stopwords = stopwords if stopwords is not None else []
 
@@ -20,11 +27,10 @@ class DocSim:
                 vec = self.w2v_model[word]
                 word_vecs.append(vec)
             except KeyError:
-                # Ignore, if the word doesn't exist in the vocabulary
+                # Skip out of vocabulary words
                 pass
 
-        # Assuming that document vector is the mean of all the word vectors
-        # PS: There are other & better ways to do it.
+        # Take the mean of the document vector
         vector = np.mean(word_vecs, axis=0)
         return vector
 
@@ -36,8 +42,7 @@ class DocSim:
         return csim
 
     def calculate_similarity(self, source_doc, target_docs=None, threshold=0):
-        """Calculates & returns similarity scores between given source document & all
-        the target documents."""
+        """Calculates & returns similarity scores between one sentence, and all other sentences """
         if not target_docs:
             return []
 
@@ -51,7 +56,5 @@ class DocSim:
             sim_score = self._cosine_sim(source_vec, target_vec)
             if sim_score > threshold:
                 results.append({"score": sim_score, "doc": doc})
-            # DO NOT sort results by score in desc order
-            # results.sort(key=lambda k: k["score"], reverse=True)
 
         return results

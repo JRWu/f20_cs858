@@ -24,10 +24,14 @@ make shell
 # Acquire the pre-trained GoogleNews-vectors-negative300.bin.gz word2vec model
 bash scripts/acquire_w2v_model.sh
 
-# Compute the similarity metrics and output graphs
-# Will take a second to load due to the Word2Vec model being so large.
+# Launch the Flask interface ... Will take a second to load due to the Word2Vec model being so large.
+
+# Will be located at localhost:5000
 python -m flask run --host=0.0.0.0
 
+
+# After data has been collected in GenerateTables.py, generate the figures for rq1 and rq2
+python /f20_cs858/src/GenerateTables.py
 ```
 
 ### Slow Start (Dependencies)
@@ -56,9 +60,6 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.27.4/docker-
 
 sudo chmod +x /usr/local/bin/docker-compose
 ```
-
-## Current Packages Utilized:
-[pytextrank](https://github.com/DerwenAI/pytextrank) is used to currently score phrases of text given a corpus (privacy policy).
 
 
 

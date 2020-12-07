@@ -121,11 +121,7 @@ We will only collect and use your personal data (as described in section 4) in a
 
 6. Who do we share your personal data with?
 
-When you use any of our Services, we may disclose your personal data to the following parties:
-
-To our group companies, third party services providers and partners who provide data processing services to us. For example, to support the delivery of, provide functionality on, or help to enhance the security of our Services, or who otherwise process personal data for purposes that are described in this Privacy Policy or notified to you when we collect your personal data.
-to any competent law enforcement body, regulatory, government agency, court or other third party where we believe disclosure is necessary.
-to any other person with your consent to the disclosure.
+When you use any of our Services, we may disclose your personal data to the following parties: To our group companies, third party services providers and partners who provide data processing services to us. For example, to support the delivery of, provide functionality on, or help to enhance the security of our Services, or who otherwise process personal data for purposes that are described in this Privacy Policy or notified to you when we collect your personal data. To any competent law enforcement body, regulatory, government agency, court or other third party where we believe disclosure is necessary. To any other person with your consent to the disclosure.
 Please note that our Services and Application features does not have the technical capability nor the intention to collect voice record data. As a result we do not transfer or store any voice record data and have no agreement to share or transfer any such type of data with a third party. 
 7. What cookies do we use?
 
